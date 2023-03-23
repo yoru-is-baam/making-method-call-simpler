@@ -5,5 +5,7 @@ public class Main {
         Customer c1 = new Customer("Kiet", "Hoang", 21);
 
         System.out.println(c1.getFirstName());
+        System.out.println(c1.getLastName());
+        System.out.println(c1.getAge());
     }
 }
